@@ -1,0 +1,116 @@
+/* style.css
+ * Andrew Antle
+ * http://antlechrist.org/
+ */
+
+/* BEGIN reset.css *********************************************************/
+/* Eric Meyer
+ * http://meyerweb.com/eric/tools/css/reset/
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after,
+q:before, q:after { content: ''; content: none; }
+:focus { outline: 0; }
+ins { text-decoration: none; }
+del { text-decoration: line-through; }
+table { border-collapse: collapse; border-spacing: 0; }
+/* END reset.css ***********************************************************/
+
+/* BEGIN text.css **********************************************************/
+/* 960 Grid System
+ * http://960.gs
+ */
+body {
+    font: 15px/1.5 'DejaVu Sans', 'Lucida Grande', Arial, sans-serif;
+    margin: auto 2em;
+    padding: 1em;
+    background: #303030;
+    color: #dadada;
+    width: 800px;
+}
+
+hr {
+    border: 0 #ccc solid;
+    border-top-width: 1px;
+    clear: both;
+    height: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    margin-bottom: 3px;
+}
+
+h1 { font-size: 25px; } /* 25 */
+h2 { font-size: 23px; }
+h3 { font-size: 21px; }
+h4 { font-size: 17px; }
+h5 { font-size: 15px; }
+h6 { font-size: 12px; }
+
+ol { list-style: decimal; }
+ul { list-style: square; }
+li { margin-left: 40px; }
+
+p, dl, hr, ol, ul, pre, table, address, fieldset { margin-bottom: 20px; }
+p { text-align: justify; }
+
+li > ul, li > ol { margin-bottom: 20px; }
+
+sub, sup {
+    font-size: 0.7em;
+    height: 0;
+    line-height:1;
+    position: relative;
+    vertical-align: baseline;
+}
+
+a       { color: #5F87AF; text-decoration: none; }
+a:hover { color: #506070; }
+a:focus { outline: 1px dotted; }
+
+img { margin: 5px 20px 5px 0; float: left; }
+sub { top: .5ex; }
+sup { bottom: 1ex; }
+/* END text.css ************************************************************/
+
+/* BEGIN local.css *********************************************************/
+article, aside, figure, footer, header, hgroup, nav, section { display: block }
+
+header { font-family: 'DejaVu Sans Mono'; }
+
+nav { background: #383838; clear: both; padding-left: 5px; }
+nav ul { list-style: none; }
+nav li { display: inline; line-height: 1em; margin: 0.5em; white-space: nowrap; }
+nav ul li a { background-color: transparent; font-size: 1em; text-decoration: none; padding: 4px; }
+nav li.current a { background: #303030; cursor: default; border-bottom: 4px solid #506070; padding-bottom: 6px; }
+nav li.current a:hover { }
+
+article { max-width: 35em; }
+
+footer { border-top: 1px solid #dadada; clear: both; padding-top: 1em; font-size: 11px; margin-top: 40px; }
+footer .l { clear: left; float: left; text-align: left;}
+footer .r { text-align: right; }
+
+blockquote { border: 1px solid #dadada; margin: 1em; padding: 0.5em; }
+code { color: #579D1C; padding-top: 0.5em; padding-bottom: 0.5em; }
+/* END local.css ***********************************************************/
