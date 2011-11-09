@@ -1,24 +1,40 @@
 #### Technical Project Manager
-[My friend](/about/jimk.html) and[ I ](/about/steve.html) are interested
-in finding someone who we can work closely with.  I guess you can say
-we're a bit of '[flow](/questions.html#flow)' junkies and because of
-this we feel it's important the person has similar
-[characteristics](/questions.html#characteristics) to us. While working
-in a unique [work environment](/about/environment.html), this person
-must enjoy managing tasks and leading people.
+We have a opening for a technical project manager. We are developing an
+e-commerce website for a locally owned [retail
+business](http://ellwoodepps.com). The first version is almost done but
+there is more to do. The project manager will play a key role in
+developing and implementing the second version.
+[Duties](/questions.html#duties) include joining in on brainstorming
+sessions, gathering requirements from client, writing specifications,
+project management, delegating, outsourcing and people management,
+testing, project fulfillment monitoring, and depending on your skills,
+some coding.
 
-We feel we have too much on our plates at this time.  Currently, we're
-helping a friend of ours who runs a fair sized [sporting goods
-company](http://ellwoodepps.com) (hunting, fishing and camping). Our
-current goal is to give their customers the ability to purchase online.
+We are a small company. There are just two of us.
+[Jim](/about/jimk.html) and[ I ](/about/steve.html) do most of the work
+ourselves but we have outsourced work using online freelancers. We'd
+like to expand on that and the project manager will have a key role in
+this. Our business touches on all facets of web development from user
+interface design to network performance testing. There is plenty of
+variety and no two days are the same.
 
-##### Overview
-* ability to work in north west Guelph, Ontario
-* would enjoy working in a unique [work environment](/about/environment.html)
-* really enjoy working in a small group
+The [environment](/about/environment.html) is casual. You will work very
+closely with us. You could say we are '[flow](/questions.html#flow)'
+junkies because we like to get into a zone with our work daily. For that
+to continue, we're looking for someone with a similar
+[disposition](/questions.html/#disposition) as us. We've listed some our
+the traits and the general
+[characteristics](/questions.html/#characteristics) we're looking for. 
+
+#### Overview/Qualifications
+* project management, development monitoring, outsourcing
+* comfortable in a casual, hands-on, be-yourself environment
+* enjoy working in a small group
 * familiar with the Linux environment (eg cli, vim, git)
-* familiarity with python would be a plus
+* familiarity with any of python, php, javascript, css, magento or 
+  web2py would be a plus
 * ability to take ownership and responsibility in the work
 * possesses exceptional organizational skills
 * a bit of an extrovert
-* a generalist/a jack of all trades
+* a generalist/jack of all trades
+* location: north west Guelph, Ontario
