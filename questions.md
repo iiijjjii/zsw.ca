@@ -2,7 +2,7 @@
 ###### [What would my duties and responsibilities be?](#duties)  
 ###### [What skills are required?](#skills)  
 ###### [How much will I be paid?](#paid)  
-###### [Why is it important to you everyone have a similar disposition?](#disposition)  
+###### [Why is it important to you that everyone have a similar disposition?](#disposition)  
 ###### [What characteristics are most important for this position?](#characteristics)  
 ###### [Why is it important to you who you work with?](#who)  
 ###### [What is this 'flow' thing you refer to?](#flow)  
@@ -22,41 +22,64 @@
 <br>
 -----
 #### What would my duties and responsibilities be?<a id="duties"></a>
+
 It's difficult to state specifics.  Depending on the solution we're
 working on, different hats needs to be worn.
 
-* Figure out ways to find coders interested in helping us out -- [interesting](http://www.daemonology.net/blog/2011-09-05-lessons-learned-from-bountying-bugs.html)
-* Spec out bugs and features for third party developers to work on
-* Look over commits for any glaring mistakes
-* Co-ordinate tasks with third party developers
-* Communication between the end customer and third party developers
-* Workout buddy
+Project Management
+* Brainstorming
+* Project and task descriptions and specifications
+* Prioritization
+* Monitoring progress
+* Documentation
+
+Developer Management
+* Create a network of reliable freelance developers
+* Research creative ways of outsourcing: [interesting example](http://www.daemonology.net/blog/2011-09-05-lessons-learned-from-bountying-bugs.html)
+* Interface with freelance services: elance, vworker, odesk etc. 
+* Write specifications, document bugs and delegate tasks.
+* Communicate between end users and developers
+* Review and test solutions and ensure requirements are met
+* Administration: coordinate contracts and payments
+
+Development 
+* Brainstorming
+* Research technologies and best practices
+* User interface design
+* Testing
+* Training
+
+Miscellaneaous
 * Whatever is needed to be done; eg:
     - Install OSX on some old Macmini's
     - Posting surplus items on ebay
     - Figure out how to create and attach a tabletop to a treadmill
+* [Workout buddy'?](#workout)
 
 <br>
 #### What skills are required?<a id="skills"></a>
-* ability to take ownership and responsibility in solving [end-user problems](#enduser)
+* willingness to take ownership and responsibility in solving [end-user problems](#enduser)
 * must possess exceptional organizational skills
 * ability to communicate well both written and verbally
-* ability to write clear, short documentation
+* ability to write clear, concise documentation
 * ability to get things done
 * able to brainstorm and think outside the box
 * familiar with the Linux environment (eg cli, vim, git)
-* familiarity with python would be a plus
+* familiarity with web development tools and languages, for example, any of
+    python, HTML, CSS, and javascript, would be a plus
 
 <br>
 #### How much will I be paid?<a id="paid"></a>
-I'd like to sit down and figure out what your cost of living is and make
-sure that's covered for the interim.  When we start generating revenue
-then do profit sharing.  As for equity, if we all gel really well
-together, than Jim and I have no trouble doing a three way split of
+Currently during the development phase, Jim and I are paying ourselves a base
+salary to cover our cost of living. I'd like to sit down and figure out what
+your needs are and negogiate a value that works for you.  When we start
+generating revenue, with profit sharing our salaries can increase. As the
+business grows so will its value. If we all gel really well and you are happy
+to stay on long term, than Jim and I have no trouble doing a three way split of
 equity. I'd just need our accountant to figure out how and when.
 
 <br>
-#### Why is it important to you everyone have a similar disposition?<a id="disposition"></a>
+#### Why is it important to you that everyone have a similar disposition?<a id="disposition"></a>
 A lot of time will be spent on brainstorming and decision making.
 Hopefully we'll be more effective if we can focus on decisions involving
 the direction of the project and immediate tasks at hand, rather than
@@ -89,12 +112,13 @@ and some serious disagreements.
 
 We've found it important to consider all facets of a project, and people
 with different backgrounds and preferences can help bring unique
-perspectives to the table. But when differences consistently become a
+perspectives to the table. But when differences consistently become an
 issue, tempers may rise, projects are often delayed, and well, it's just
 not an ideal environment to be in.
 
 <br>
 #### What characteristics are most important for this position?<a id="characteristics"></a>
+In no particular order:
 * Determination
 * Simplicity
 * Enthusiasm
@@ -156,8 +180,8 @@ maximize the opportunities for flow makes sense.
 
 <br>
 #### How would you describe an ideal co-worker?<a id="co-worker"></a>
-* ability to work in north west Guelph, Ontario
-* would enjoy working in a unique [work environment](/about/environment.html)
+* able to work in north west Guelph, Ontario
+* would enjoy working in a casual [work environment](/about/environment.html)
 * task oriented; goal driven
 * really enjoy working in a small group
 * ability to take ownership and responsibility in the work
@@ -230,12 +254,12 @@ We posted links to code samples; [jim(http://FIXME) and
 <br>
 #### What software do you use to do your work?<a id="software"></a>
 We work in a Linux environment and believe in open source software. Our
-choice for a Linux distribution is ArchLinux.
+choice for a Linux distribution is Arch Linux.
 
-We develop with bash and core utils (awk, sed, find etc), python,
-web2py, apache, MySQL and nagios. The software we choose to work with
-includes: dwm, urxvt, screen, bash, vim, firefox (pentadactyl), mutt,
-weechat, rtorrent, mplayer and mpd.
+We develop with bash and core utils (awk, sed, find etc), python, web2py,
+magento, apache, MySQL and nagios. The software we choose to work with
+includes: dwm, urxvt, screen, bash, vim, firefox (pentadactyl), mutt, weechat,
+rtorrent, mplayer and mpd.
 
 Here are our dotfiles; [jim](http://FIXME) and [steve](http://FIXME)
 
@@ -267,8 +291,8 @@ Jays/NFL).
 
 <br>
 #### What is your work ethic like?<a id="work-ethic"></a>
-It's tempting to say "super work ethic, self starter, willingness to go
-above and beyond" but does that really add anything? Most everyone says
+It's tempting to reply "super work ethic, self starter, willingness to go
+above and beyond" but does that really say anything? Most everyone says
 that about anything work related, and it can mean different things to
 different people.
 
@@ -279,7 +303,7 @@ dumped garbage bins eight hours a day. He worked at the same company for
 35 years. That takes an unbelievable amount of determination, focus, and
 self-discipline. I would say he had a good work ethic.
 
-We have nothing close to that. All the same we were able to make the ISP
+We have nothing close to that. All the same we were able to make an ISP
 happen. We grew a successful business by plucking away usually 60 plus
 hours a week at our computers. Some would say that's a good work ethic.
 I don't know; some was work but we had a lot of fun doing it.
@@ -293,34 +317,48 @@ earn a living as well.
 
 <br>
 #### What do you mean 'workout buddy'?<a id="workout"></a>
-Before moving, a friend of mine and I would lift weights together.  I
-don't enjoy lifting enough to do it myself but would enjoy having
-someone else to lift with.
+A friend of mine got me involved in weight training a few years ago. He
+introduced me to the basics and devised a workout program. His enthusiasm kept
+me interested and I made very good progress. I have since moved to Guelph and
+it is no longer practical to workout together. I find on my own I am not quite
+as motivated and I haven't kept a consistent program going. I would enjoy
+having a workout buddy to get back into it.
 
 <br>
 #### What do you mean 'end-user problems'?<a id="enduser"></a>
-Some people suggest to create a product or service which scratches a
-personal itch you have.  The idea is you know the problem domain well
-and are highly motivated to solve the issue.  The problem I find with
-this approach run the risk of solving a problem only a few people have
-or the solution might not be what the majority of others actually
-want/like.  Also I find there is a 'no-depth-perception' feeling I get
-when working in this style.  I find it difficult to know when 'done' is.
-Lastly, in the long run I find working on my own problems not as
-satisfying as working on other peoples problems.
+Some people suggest a successful business can come about by creating a product
+or service which scratches a personal itch.  The thinking goes if you have a
+problem most likely others do too. You know the problem domain well since it
+keeps cropping up in your environment and you are highly motivated to create a
+solution as it will resolve an on-going nag. Many successful companies and
+products, for example, google, skype, and twitter, came about with this
+approach. The downside I see to this approach is it runs the risk of solving
+a problem only a few people have, which doesn't lend to growth, and,
+because your focus is so much on a solution that you are happy with, your
+product might not be suitable for what the majority of people need or want. 
 
-With our end-user being the [sporting good
-store](http://ellwoodepps.com) the problems are obvious. They have a
-large customer base which is used to determine exactly what the problems
-are.  By solving these 'end-user problems' we create immediate financial
-benefits; something they are willing to pay for. This business model may
-not make us gazillionaires but it has a much better chance of long term
-success than trying to develop the next skype or twitter.
+I have tried this approach with minor projects and I find it hard to get a good
+feel of the dimension of a task. I have little depth perception. It's hard to
+gauge what is a priority and what isn't. It's difficult to determine the value
+of some feature or aspect of the project and how much resources should be
+applied to it. I find it difficult to know when it is 'done'. Lastly, in the
+long run I find working on other peoples problems rather than my own to be more
+fulfilling.
+
+Currently we our developing an e-commerce site. The end-user is the [sporting
+good store](http://ellwoodepps.com) and the problems are obvious. They have a
+large customer base and their requests and feedback from the employees provide
+ample evidence of what needs improving and where the prioriites need to be
+focused. By solving these 'end-user problems' we create immediate benefits,
+something clients are willing to pay for. This business model may not make us
+gazillionaires but I think it has a much better chance of long term success
+than trying the hit-and-miss approach of developing the next skype or twitter.
 
 <br>
 #### Why would you *choose* to work in cubicles?<a id="cubicles"></a>
-The cubicles are space efficient.  They cut down on noise.  The walls
-seem to help with focus.  They are modular.  They have no drawers which
-forces me to be organized.  AC power and ethernet are at desk height.
-
+Cublicles are often the scorn of office design so why would we voluntarily use
+them? Well they actually are pretty effective. The cubicles are space
+efficient.  They cut down on noise.  The walls seem to help with focus.  They
+are modular.  They have no drawers which forces you to be organized.  AC power
+and ethernet are at desk height. Hey, what's not to like.
 <br>

@@ -21,7 +21,7 @@ Currently Jim, and I are working with [sporting goods
 company](http://ellwoodepps.com), helping them automate certain tasks.
 
 I have many years of experience working with computer hardware, Linux,
-networks and Bash. I have good brainstorming skills. I have a knack for
+networks and bash. I have good brainstorming skills. I have a knack for
 whittling problems to their core, and designing simple, common sense
 solutions. I am comfortable in small groups, engaging and motivating,
 with a strong sense of direction and persistence to meet goals. In my
@@ -35,7 +35,7 @@ entertaining our two dogs.
 
 #####Technical
 * bash, awk and cli utilities
-* arch linux
+* Arch Linux
 * network administration
 * arm/mips processor (nmt, openwrt, N900)
 * IRC, RSS, mailing lists

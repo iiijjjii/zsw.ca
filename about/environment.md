@@ -1,12 +1,14 @@
 #### Work Environment
-Jim and I are very casual. Our work as become a lifestyle. We spend most
-of the day at the keyboard. He and I setup the basement of a house as
-our work environment. Below are some photos. Before selling the ISP we
-worked out of a condo in downtown Kitchener. During that time we worked
-in [cubicles](/questions.html#cubicles).  We liked them so much we kept
-a few from the sale.
+Jim and I are very casual. Our work has become a lifestyle. We spend most of
+the day at the keyboard. There is a lot of collaboration: discussions about
+general directions and goals, brainstorming sessions, and sharing suggestions
+and discoveries. And then there is a lot of self-directed work: researching
+technologies and techniques, developing and implementing solutions, testing and
+bug fixing.
 
-  
+Jim and I setup the basement of my house as our work environment. Below are some
+photos.
+
 Pictures of work environment go here...
 
 <!--
