@@ -52,7 +52,7 @@ working on, different hats needs to be worn.
 I'd like to sit down and figure out what your cost of living is and make
 sure that's covered for the interim.  When we start generating revenue
 then do profit sharing.  As for equity, if we all gel really well
-together, than Jim and I have no trouble doing a three way split of
+together, than Jim and I have no trouble doing a three way split of the
 equity. I'd just need our accountant to figure out how and when.
 
 <br>
