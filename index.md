@@ -22,7 +22,7 @@ The [environment](/about/environment.html) is casual. You will work very
 closely with us. You could say we are '[flow](/questions.html#flow)'
 junkies because we like to get into a zone with our work daily. For that
 to continue, we're looking for someone with a similar
-[disposition](/questions.html/#disposition) as us. We've listed some our
+[disposition](/questions.html/#disposition). We've listed some our
 the traits and the general
 [characteristics](/questions.html/#characteristics) we're looking for. 
 
@@ -33,8 +33,8 @@ the traits and the general
 * familiar with the Linux environment (eg cli, vim, git)
 * familiarity with any of python, php, javascript, css, magento or 
   web2py would be a plus
-* ability to take ownership and responsibility in the work
-* possesses exceptional organizational skills
+* willingness to take ownership and responsibility of projects and tasks 
+* possess exceptional organizational skills
 * a bit of an extrovert
 * a generalist/jack of all trades
 * location: north west Guelph, Ontario
