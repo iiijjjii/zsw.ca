@@ -1,13 +1,13 @@
 #### Work Environment
-Jim and I are very casual. Our work has become a lifestyle. We spend most of
-the day at the keyboard. There is a lot of collaboration: discussions about
-general directions and goals, brainstorming sessions, and sharing suggestions
-and discoveries. And then there is a lot of self-directed work: researching
-technologies and techniques, developing and implementing solutions, testing and
-bug fixing.
+Jim and I are very casual. Our work has become a lifestyle. We spend
+most of the day at the keyboard. There is a lot of collaboration --
+discussions about general directions and goals, brainstorming sessions,
+and sharing suggestions and discoveries. As well there is a lot of
+self-directed work -- researching technologies and techniques,
+developing and implementing solutions, testing and bug fixing.
 
-Jim and I setup the basement of my house as our work environment. Below are some
-photos.
+Jim and I setup the basement of my house as our work environment. Below
+are some photos.
 
 Pictures of work environment go here...
 

@@ -44,7 +44,7 @@ body {
     margin: auto 2em;
     padding: 1em;
     background: #303030;
-    color: #dadada;
+    color: #afafaf;
     width: 800px;
 }
 
@@ -107,10 +107,10 @@ nav li.current a:hover { }
 
 article { max-width: 35em; }
 
-footer { border-top: 1px solid #dadada; clear: both; padding-top: 1em; font-size: 11px; margin-top: 40px; }
+footer { border-top: 1px solid #afafaf; clear: both; padding-top: 1em; padding-bottom: 1em; font-size: 11px; margin-top: 40px; }
 footer .l { clear: left; float: left; text-align: left;}
 footer .r { text-align: right; }
 
-blockquote { border: 1px solid #dadada; margin: 1em; padding: 0.5em; }
+blockquote { border: 1px solid #afafaf; margin: 1em; padding: 0.5em; }
 code { color: #579D1C; padding-top: 0.5em; padding-bottom: 0.5em; }
 /* END local.css ***********************************************************/

@@ -1,40 +1,32 @@
-#### Technical Project Manager
-We have a opening for a technical project manager. We are developing an
-e-commerce website for a locally owned [retail
-business](http://ellwoodepps.com). The first version is almost done but
-there is more to do. The project manager will play a key role in
-developing and implementing the second version.
-[Duties](/questions.html#duties) include joining in on brainstorming
-sessions, gathering requirements from client, writing specifications,
-project management, delegating, outsourcing and people management,
-testing, project fulfillment monitoring, and depending on your skills,
-some coding.
+#### Part Time Job
+This is a part time position and would be ideal for a student. The hours
+are 10 to 20 per week and can be schedule a week in advance. The
+[environment](/about/environment.html) is casual.
 
-We are a small company. There are just two of us.
-[Jim](/about/jimk.html) and[ I ](/about/steve.html) do most of the work
-ourselves but we have outsourced work using online freelancers. We'd
-like to expand on that and the project manager will have a key role in
-this. Our business touches on all facets of web development from user
-interface design to network performance testing. There is plenty of
-variety and no two days are the same.
+My friend, [Jim](/about/jimk.html) and[ I, ](/about/steve.html)are
+developing an e-commerce website for a locally owned [retail
+business](http://ellwoodepps.com).  As we are getting close to the
+release of version one, we have odds and end jobs piling up.  Since we
+are a small company the jobs vary in nature from technical to
+non-technical.
 
-The [environment](/about/environment.html) is casual. You will work very
-closely with us. You could say we are '[flow](/questions.html#flow)'
-junkies because we like to get into a zone with our work daily. For that
-to continue, we're looking for someone with a similar
-[disposition](/questions.html/#disposition). We've listed some our
-the traits and the general
-[characteristics](/questions.html/#characteristics) we're looking for. 
+This job should be of high interest to anyone interested in any of the
+following, programming, Linux, network administration, web tech and/or
+entrepreneurship.  Anyone who strives to work in a corporate setting or
+in academia will find this position of less interest.
 
 #### Overview/Qualifications
-* project management, development monitoring, outsourcing
-* comfortable in a casual, hands-on, be-yourself environment
-* enjoy working in a small group
-* familiar with the Linux environment (eg cli, vim, git)
-* familiarity with any of python, php, javascript, css, magento or 
+* A [generalist/jack of all trades](/questions.html#duties)
+* The position is ideal for a student
+* The hours are 10 to 20 hours per week
+* Hours can be [flexible](/questions.html#flexible)
+* Must be willing to work on [location](/questions.html#local)
+* Comfortable in a casual, hands-on, be-yourself environment
+* Enjoy working in a small group
+* Willingness to take ownership and responsibility of projects and tasks
+* Possess solid organizational skills
+* Familiarity with the Linux environment (eg bash, cli utils, vim, git)
+  would be plus
+* Familiarity with any of python, php, javascript, css, magento or
   web2py would be a plus
-* willingness to take ownership and responsibility of projects and tasks 
-* possess exceptional organizational skills
-* a bit of an extrovert
-* a generalist/jack of all trades
-* location: north west Guelph, Ontario
+* [Location:](/questions.html#address) north west Guelph, Ontario
