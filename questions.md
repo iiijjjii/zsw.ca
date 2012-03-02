@@ -23,14 +23,14 @@
 * Errands -- drop off packages to be mailed, pick up supplies, etc
 * Collect quotes for outdoor signs for store front
 * [Workout partner](#workout)
-* Assembling window screens
+* Assemble window screens
 * Plant trees
 * Help clean up green space
 
 ##### Technical
-* Install OSX on some old Macmini's
+* Install OSX on some old Mac minis
 * Install and configure openwrt on an access point
-* Make use of the ADF feature on the scanner
+* Get scanner ADF feature working
 
 ##### Depending on the level of interest and skill set, these areas are possible:
 * Project Management
@@ -46,9 +46,9 @@
 * Ability to get things done
 * Able to brainstorm and think outside the box
 * Willingness to take ownership and responsibility in solving problems
-* Familiar with the Linux environment (eg bash, cli utils, vim, git)
+* Familiarity with the Linux environment (eg bash, cli utils, vim, git)
   would be plus
-* Familiarity with web development tools and languages. Eg any of
+* Familiarity with web development tools and languages, eg., any of
   python, HTML, CSS, and javascript, would be a plus
 
 <br>
@@ -75,7 +75,7 @@ Friday of every week.
 * Able to work in north west Guelph, Ontario
 * Would enjoy working in a casual [work environment](/about/environment.html)
 * Task oriented; goal driven
-* Really enjoy working in a small group
+* Really enjoys working in a small group
 * Ability to take ownership and responsibility in the work
 * Possesses exceptional organizational skills
 * A generalist/a jack of all trades
@@ -140,8 +140,10 @@ forces one to be organized.  AC power and ethernet are at desk height.
 
 <br>
 #### What do you mean 'scheduling can be flexible'?<a id="flexible"></a>
-Ideally it's the same each week but this might not be practical.  A
-schedule can be submitted a week before.
+We're very flexible and we should be able to accommodate pretty much any work
+schedule you'd like, whether it be days, evenings, or weekends. Ideally your
+work schedule would be consistent one week to the next, but there's wiggle room
+there as well, as long as you provide your availability a week in advance.
 
 <br>
 #### Why must all the work be done on location?<a id="local"></a>

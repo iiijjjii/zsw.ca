@@ -6,7 +6,7 @@ github:  [https://github.com/iiijjjii/](https://github.com/iiijjjii/)
 Hi, I'm Jim Karsten. For the past few years I have been working on an
 e-commerce web site, developing the frontend with the magento platform
 and the backend with the web2py framework. The project has included a
-wide range of and technologies including web2py MVC/MySQL development,
+wide range of technologies including web2py MVC/MySQL development,
 magento customization and custom APIs, web2py-jqgrid module, apache
 remote server mappings, and MySQL replication.
 
