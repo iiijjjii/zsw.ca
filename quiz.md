@@ -8,8 +8,10 @@ link to fill out some background information about yourself as well to
 find out more information about the position. Clicking on this link will
 open the page in another tab or window.
 
-STEP 3: If you're still interested in the position click <a
-href="http://zsw.ca/cal.html" target="_blank">this</a> link.
-This link will open a google calendar in a new window or tab.  Please
-chose a day and time that works for you for us to talk.
+STEP 3: Click <a href="http://zsw.ca/gq.html" target="_blank">this</a>
+link for a 35 problem solving quiz.
 
+##### About the Quiz
+* complete quiz in one sitting
+* should take 30-45 minutes
+* time is a factor but correctness is most important

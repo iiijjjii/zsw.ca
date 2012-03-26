@@ -12,6 +12,8 @@
 ###### [What do you mean 'scheduling can be flexible'?](#flexible)  
 ###### [Why must all the work be done on location?](#local)  
 ###### [What is your address?](#address)  
+###### [When can I start?](#start)  
+###### [I go home for the summers.](#summer)  
 ###### [I found a mistake.](#mistake)  
 <br>
 -----
@@ -155,6 +157,14 @@ important in a small group.
 79 Tovell Drive, Guelph
 
 <br>
+#### When can I start?<a id="start"></a>
+As soon as you can.
+
+<br>
+#### I go home for the summers.<a id="summer"></a>
+That's fine, still apply and maybe we can work something out.
+
+<br>
 #### I found a mistake.<a id="mistake"></a>
 I found a spelling/grammar mistake.
 I found a broken link.
@@ -162,3 +172,19 @@ I like to know the answer to this question...
 
 Please email me mistakes as well anything you feel is missing --
 steve@zsw.ca
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
