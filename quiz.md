@@ -3,17 +3,30 @@ If you're interested in the position please follow the steps below.
 STEP 1: Make sure you've read through the information on this site;
 particularly the [questions](/questions.html) page.
 
-STEP 2: Click <a href="http://zsw.ca/bi.html" target="_blank">this</a>
-link to fill out some background information about yourself as well to
-find out more information about the position. Clicking on this link will
-open the page in another tab or window.
-* Familiarity with web development tools and languages, eg., any of
-  python, HTML, CSS, and javascript, would be a plus
+STEP 2: Fill out a questionnaire composed of general questions about you
+and the position.
 
-STEP 3: Click <a href="http://zsw.ca/gq.html" target="_blank">this</a>
-link for a 35 problem solving quiz.
+#### About the questionnaire:
 
-##### About the Quiz
-* complete quiz in one sitting
-* should take 30-45 minutes
-* time is a factor but correctness is most important
+* Time: 10 minutes
+* The link opens a page in another window/tab.
+
+Click <a href="http://zsw.ca/bi.html" target="_blank">here</a> to begin.
+
+STEP 3: Complete a general aptitude test composed of 30 problem solving
+questions.
+
+##### About the test:
+
+* Complete test in one sitting.
+* Select the best of the available answers and then click 'Next' to move
+    on to the next question.
+* Once you click Next, you *cannot* go back to change your answer.
+* There is no time limit, but how long you take to complete the test will
+  be taken into consideration when reviewing your results. Correctness is
+  most important.
+* Calculators are permitted.
+* Time: 45-60 minutes
+* The link opens a page in another window/tab.
+
+Click <a href="http://zsw.ca/gq.html" target="_blank">here</a> to begin.
