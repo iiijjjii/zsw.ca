@@ -47,9 +47,10 @@
 * Able to brainstorm and think outside the box
 * Willingness to take ownership and responsibility in solving problems
 * Familiarity with the Linux environment (eg bash, cli utils, vim, git)
-  would be plus
-* Familiarity with web development tools and languages, eg., any of
-  python, HTML, CSS, and javascript, would be a plus
+  would be a plus
+* Familiarity with web development tools and languages, eg., any of 
+  python, php, javascript, HTML, CSS, magento or web2py, would be a 
+  plus
 
 <br>
 #### How much will I be paid and when?<a id="paid"></a>

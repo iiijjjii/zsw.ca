@@ -30,7 +30,7 @@ position of less interest.
 * Willingness to take ownership and responsibility of projects and tasks
 * Possess solid organizational skills
 * Familiarity with the Linux environment (eg bash, cli utils, vim, git)
-  would be plus
-* Familiarity with any of python, php, javascript, css, magento or
-  web2py would be a plus
+  would be a plus
+* Familiarity with any of python, php, javascript, HTML, CSS, magento or web2py
+  would be a plus
 * [Location:](/questions.html#address) north west Guelph, Ontario
